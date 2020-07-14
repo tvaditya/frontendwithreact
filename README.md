@@ -1,2 +1,2 @@
 # frontendwithreact
-Fron end with react
+Front end with react
